@@ -1,32 +1,45 @@
 .h1 {
-    padding: 70px;
-    background-color: green;
-    height: 120px;
+    
+   
+    background-color: rgb(34, 27, 27);
+    text-align: center;
+    position: relative;
+    color: rgb(34, 34, 244);
+    height: 100px;
+    padding: 27px;
 }
 
 
 .p1 {
-    border: 2px solid rgb(25, 158, 176);
+
     /* background-color: crimson; */
     margin: 50px;
-    padding: 30px;
+
 }
 
 .p2{
-    border: 2px solid rgb(25, 158, 176);
+
     margin: 50px;
-    padding: 30px;
+    text-orientation: upright;
+
 }
 
 .p3 {
-    border: 2px solid rgb(25, 158, 176);
-    margin: 50px;
-    padding: 30px;
+    
+    font-family:'Times New Roman';
+    
+    
 }
 .GH {
-    border: 2px solid rgb(25, 158, 176);
+    
     margin: 50px;
-    padding: 30px;
+   
+}
+.trivia_project{
+    width: 1110px;
+    
+    margin: 50px;
+   
 }
 /* .topnav {
     background-color: #333;
